@@ -27,7 +27,7 @@
 ## Работа с изображениями
 
 Чтобы вставить изображение в текст, достаточно написать слкдующее:
-![]()
+![Сатурн](rings-stock-grahamtg-by-grahamtg-kosmos-prostranstvo-fantast.jpg)
 
 ## Ссылки
 
